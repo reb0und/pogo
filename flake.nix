@@ -26,8 +26,6 @@
 					alias ls=eza
 					alias find=fd
 					alias cat=bat
-
-					alias wiki="w3m -T text/html"
 				'';
 			};
 		}
